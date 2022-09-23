@@ -18,3 +18,4 @@ Other users: all the permissions
 write a script that sets the mode of a file hello to these
 create a script that adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users. Regular files should not be changed
 create a script that cretes a directory called my_dir with permissions 751 in the working directory
+write a script that changes the group owner to school for the file hello
